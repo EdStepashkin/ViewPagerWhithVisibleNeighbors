@@ -8,9 +8,6 @@ import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 
-/**
- * Created by dn211290ndv on 06.10.16.
- */
 public class MainActivity2 extends FragmentActivity {
 
     ViewPager pager;
